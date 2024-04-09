@@ -55,7 +55,7 @@ const ReturnsBox = styled(Box)`
   padding: 10px;
   border-radius: 10px;
   background-color: #f6f7f9;
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
   color: grey;
   > div {
     display: flex;
@@ -73,7 +73,7 @@ const Category = styled(Typography)`
   color: white;
   z-index: 2;
   padding: 5px;
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 `;
 const Header = styled(Typography)`
   
@@ -81,7 +81,7 @@ const Header = styled(Typography)`
   // align-items: flex-start;
   font-weight: 600;
   // align-content: start;
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
   margin: 10px 120px 10px 0px;
   width:100%;
 `;
@@ -199,7 +199,7 @@ const Income = () => {
                               color: "#0170dc",
                               fontSize: "18px",
                               fontWeight: 600,
-                              fontFamily: "Inter",
+                              // fontFamily: "Inter",
                             }}
                           >
                             Rup 3,30,00,000

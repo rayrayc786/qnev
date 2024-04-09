@@ -73,10 +73,10 @@
 
 .income-small-card h1 {
   font-size: 25px;
-  font-family: 'Gilroy-Bold';
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 }
 
 .income-small-card p {
-  font-family: 'Gilroy-Medium';
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   font-size: 14px;
 }

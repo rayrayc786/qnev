@@ -33,7 +33,7 @@ const HeadingBig = styled(Typography)`
   /* font-family: "Bebas Neue"; */
   font-style: normal;
   font-weight: 400;
-  font-size: 4.4em;
+  font-size: 2.0em;
   line-height: 70px;
   display: flex;
   align-items: flex-end;
@@ -46,7 +46,7 @@ const HeadingSmallone = styled(Typography)`
   /* font-family: "Bebas Neue"; */
   font-style: normal;
   font-weight: 400;
-  font-size: 2.8em;
+  font-size: 1.6em;
   margin-block-start: 0px;
   margin-block-end: 0px;
   display: flex;
@@ -60,7 +60,7 @@ const HeadingSmall = styled(Typography)`
   /* font-family: "Bebas Neue"; */
   font-style: normal;
   font-weight: 400;
-  font-size: 2.8em;
+  font-size: 2.0em;
   margin-block-start: 0px;
   margin-block-end: 0px;
   display: flex;
@@ -85,6 +85,7 @@ const SubHeadingSmall = styled(Typography)`
   font-size: 18px;
   color: white;
   line-height: 26px;
+  margin-top: 2rem;
   margin-bottom: 30px;
   margin-block-end: 0px;
 `;
@@ -93,14 +94,15 @@ const MainButton = styled(Button)`
   border-radius: 8px;
   background-color: #1b527b;
   color: white;
-  font-size: 22spx;
+  font-size: 22px;
   font-weight: 700;
   line-height: 24px;
   text-transform: none;
+  margin-top:2rem;
   margin-right: 100px;
   padding: 13px 25px;
   cursor: pointer;
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
   :hover {
     background-color: #0170dc;

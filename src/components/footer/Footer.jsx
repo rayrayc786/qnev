@@ -98,7 +98,7 @@ const GridContainer = styled(Grid)`
 `;
 
 const Rights = styled(Typography)`
-  font-family: "Saira";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
@@ -115,7 +115,7 @@ const Rights = styled(Typography)`
 `;
 
 const Heading = styled(Typography)`
-  font-family: "Saira Condensed";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 28px;
@@ -135,7 +135,7 @@ const Heading = styled(Typography)`
 `;
 
 const SubHeading = styled(Typography)`
-  font-family: "Saira";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 23px;
@@ -153,7 +153,7 @@ const SubHeading = styled(Typography)`
 `;
 
 const Extra = styled(Typography)`
-  font-family: "Saira";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 23px;

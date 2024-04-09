@@ -4,7 +4,7 @@
   height: 135vh;
   width: 100%;
   background-color: #f6f7f9;
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 }
 
 .income-section {
@@ -13,14 +13,14 @@
   display: flex;
   flex-direction: column;
   text-align: center;
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
 }
 
 .income-up-div {
   margin-bottom: 20px;
   font-family: sans-serif;
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
 }
 
@@ -37,7 +37,7 @@
   text-align: start;
   font-size: 16px;
   font-weight: 500;
-  font-family: "Saira Condensed";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
 
 }
 
@@ -48,20 +48,20 @@
   flex-direction: row;
   width: 100%;
   /* padding: 20px; */
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
 }
 
 .income-small-card,
 .income-big-card {
   border-radius: 5px;
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
 }
 .income-small-card1,
 .income-big-card {
   border-radius: 5px;
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
 }
 .income-small-card {
@@ -76,7 +76,7 @@
   margin: 10% 20px;
   border-radius: 10px;
   text-align: left;
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
 }
 .income-small-card1 {
@@ -91,7 +91,7 @@
   margin:20px;
   border-radius: 10px;
   text-align: left;
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
 }
 
@@ -100,7 +100,7 @@
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   margin: 20px;
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
 }
 .income-small-card1 img {
@@ -108,7 +108,7 @@
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   margin: 20px;
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
 }
 
@@ -117,7 +117,7 @@
   margin: 10px 0 5px 15px;
   width: 80%;
   font-family: sans-serif;
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
 }
 .income-small-card1 h1 {
@@ -125,20 +125,20 @@
   margin: 10px 0 5px 15px;
   width: 80%;
   font-family: sans-serif;
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
 }
 
 .income-small-card p {
   font-size: 14px;
   margin: 10px 15px 10px;
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
 }
 .income-small-card1 p {
   font-size: 14px;
   margin: 10px 15px 10px;
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
 }
 .income-big-card {
@@ -146,7 +146,7 @@
   height: 540px;
   margin: 0px 0px 0px 20px;
   border-radius: 10px;
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
 }
 
@@ -165,7 +165,7 @@
   border: 2px solid #4393c6;
   height: 30px;
   padding-bottom: 10px;
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
 }
 
@@ -174,7 +174,7 @@
   margin-top: 35px;
   font-weight: 800;
   font-size: 25px;
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
   
 }
 .midbox{
@@ -187,19 +187,19 @@
   box-shadow: 0px 10px 20px 2px rgba(198, 198, 198, 0.3);
   border-radius: 10px;
   position: relative;
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
 }
 
 .image-svg-1 {
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
   height: 50px;
   width: 50px;
 }
 
 .image-svg-2 {
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
   height: 70px;
   width: 70px;
@@ -207,7 +207,7 @@
 
 @media (max-width: 600px) {
   .income-section {
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
     padding: 15px;
     /* height: 100px; */
@@ -216,14 +216,14 @@
     gap: 12px;
   }
   .income-up-div {
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
     margin-bottom: 20px;
     /* text-align: left; */
   }
 
   .income-bottom-div-small {
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
     display: flex;
     align-items: center;
@@ -234,21 +234,21 @@
 
   .income-big-card,
   .income-small-card {
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
     width: 100%;
     margin: 3% 8%;
   }
   .income-big-card,
   .income-small-card1 {
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
     width: 100%;
     margin: 3% 8%;
   }
 
   .second {
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
 
 
@@ -257,7 +257,7 @@
   }
 
   .income-main {
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
     padding-inline-start: 0px;
     padding-inline-end: 0px;
@@ -267,7 +267,7 @@
   }
 
   .income-bottom-div {
-  font-family: "Inter";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;;
 
     display: flex;
     align-items: center;

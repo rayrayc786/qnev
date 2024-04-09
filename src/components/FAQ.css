@@ -7,7 +7,7 @@
 .faq-heading {
   flex: 1;
   margin-right: 20px;
-  font-family: "Saira Condensed", sans-serif;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   letter-spacing: 2px;
   font-size: 50px;
   margin-top: 150px;
@@ -17,7 +17,7 @@
 
 .faq-paragraph {
   flex: 1;
-  font-family: "Saira Condensed";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   margin-left: 3%;
 }
 
@@ -27,7 +27,7 @@
 }
 
 .faq-item {
-  font-family: "Saira Condensed";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   margin-bottom: 10px; /* Decrease the margin between each dropdown */
   overflow: hidden;
 }
@@ -43,7 +43,7 @@
   text-align: left;
   transition: background-color 0.3s ease;
   font-size: 18px; /* Increase the font-size */
-  font-family: "Saira Condensed", sans-serif;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   letter-spacing: 2px; /* Increase the letter spacing */
   font-weight: 400; /* Increase the font weight */
 }
@@ -109,7 +109,7 @@
   .faq-heading {
     flex: 1;
     margin-right: 20px;
-    font-family: "Saira Condensed", sans-serif;
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
     letter-spacing: 2px;
     font-size: 50px;
     /* margin-top: 425px; */
