@@ -50,14 +50,14 @@
 .card-title1,.card-title2,.card-title3,.card-title4{
   color: white;
   font-size: 80px;
-  font-family: 'Gilroy-Bold', sans-serif;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   margin-bottom: -10px;
 
 }
 .card-para1,.card-para2,.card-para3,.card-para4{
   color: white;
   font-size: 24px;
-  font-family: 'Gilroy-Bold', sans-serif;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
 }
 .oddnumbercard1{
   position: absolute;

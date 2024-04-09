@@ -58,7 +58,7 @@ const NewContainer=styled(Toolbar)`
 `;
 
 const Text = styled(Typography)`
-  font-family: Gilroy-Bold;
+  /* font-family: Gilroy-Bold; */
   font-size: 17px;
   line-height: 24px;
   letter-spacing: 0em;

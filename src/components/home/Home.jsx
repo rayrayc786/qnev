@@ -17,10 +17,10 @@ import PartnerSlider from "../Partners/PartnerSlider";
 import sample from "../../hero-section/hero-section-video.mp4";
 import { useNavigate } from "react-router-dom";
 const Heading = styled(Typography)`
-  font-family: "Bebas Neue";
+  /* font-family: "Bebas Neue"; */
   font-style: normal;
   font-weight: 400;
-  font-size: 3.5em;
+  font-size: 3.0em;
   line-height: 70px;
   display: flex;
   align-items: flex-end;
@@ -30,7 +30,7 @@ const Heading = styled(Typography)`
   justify-content: center;
 `;
 const HeadingBig = styled(Typography)`
-  font-family: "Bebas Neue";
+  /* font-family: "Bebas Neue"; */
   font-style: normal;
   font-weight: 400;
   font-size: 4.4em;
@@ -43,7 +43,7 @@ const HeadingBig = styled(Typography)`
   margin-top: -10px;
 `;
 const HeadingSmallone = styled(Typography)`
-  font-family: "Bebas Neue";
+  /* font-family: "Bebas Neue"; */
   font-style: normal;
   font-weight: 400;
   font-size: 2.8em;
@@ -57,7 +57,7 @@ const HeadingSmallone = styled(Typography)`
   margin-top: -10px;
 `;
 const HeadingSmall = styled(Typography)`
-  font-family: "Bebas Neue";
+  /* font-family: "Bebas Neue"; */
   font-style: normal;
   font-weight: 400;
   font-size: 2.8em;
@@ -71,16 +71,16 @@ const HeadingSmall = styled(Typography)`
 `;
 
 const SubHeading = styled(Typography)`
-  font-family: "Bebas Neue";
+  /* font-family: "Bebas Neue"; */
   font-weight: 500;
   font-size: 18px;
   color: white;
   line-height: 26px;
   margin-bottom: 30px;
-  padding-right: 15%;
+  padding-right: 14%;
 `;
 const SubHeadingSmall = styled(Typography)`
-  font-family: "Bebas Neue";
+  /* font-family: "Bebas Neue"; */
   font-weight: 500;
   font-size: 18px;
   color: white;
@@ -193,7 +193,7 @@ const SellButtonSmall = styled(Button)`
 `;
 
 const SubSection = styled(Typography)`
-  font-family: "Bebas Neue";
+  /* font-family: "Bebas Neue"; */
   font-style: normal;
   font-weight: 550;
   font-size: 30px;

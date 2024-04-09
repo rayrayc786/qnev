@@ -12,23 +12,23 @@
   width: 100vw;
   overflow: hidden;
   position: relative;
-  font-family: "Bebas Neue";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
 }
 .container .list .item {
   width: 100%;
   height: 100%;
   position: absolute;
   inset: 0 0 0 0;
-  font-family: "Bebas Neue";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
 }
 .container .list .item img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  font-family: "Bebas Neue";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
 }
 .container .list .item .content {
-  font-family: "Bebas Neue";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   position: absolute;
   top: 11%;
   width: 1000px;
@@ -41,7 +41,7 @@
   text-shadow: 0 5px 10px #0004;
 }
 .container .list .item .contentpart {
-  font-family: "Bebas Neue";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   background-color: #eee4;
   width: fit-content;
   border-radius: 10px;
@@ -83,7 +83,7 @@
   border: 2px solid white;
   background-color: #eee4;
   letter-spacing: 3px;
-  font-family: "Bebas Neue";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   font-weight: 500;
   /* margin-left: -138%;
   margin-right: 150%; */
@@ -151,7 +151,7 @@
   background-color: #eee4;
   border: 2px solid white;
   color: #fff;
-  font-family: "Bebas Neue";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   font-weight: bold;
   transition: 0.5s;
 }
@@ -400,7 +400,7 @@
 .cardPara {
   font-size: 20px;
   text-shadow: 3px 4px 8px rgba(0, 0, 0, 0.7);
-  font-family: "Bebas Neue";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   font-weight: lighter;
   margin-bottom: 0px;
   width: 50%;
@@ -412,7 +412,7 @@
   font-weight: 300;
   padding: 10px 10px 10px 0px;
   text-shadow: 3px 4px 8px rgba(0, 0, 0, 0.7);
-  font-family: "Bebas Neue";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   width: 700px;
   margin: 0px;
   line-height: 1;
@@ -429,7 +429,7 @@
   height: 45px;
   color: #fff;
   font-size: 20px;
-  font-family: "Bebas Neue";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   margin-top: 50px;
 }
 
@@ -468,7 +468,7 @@
 
   .top-text {
     color: #ffffff;
-    font-family: "Bebas Neue";
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
     font-size: 1.15rem;
     /* font-weight: 200; */
     padding-top: 15%;
@@ -541,12 +541,12 @@
     font-size: 1.35rem;
     font-weight: 80;
     letter-spacing: 0.005rem;
-    font-family: "Bebas Neue";
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
   }
 
   .cardPara-small {
     font-size: 1.2rem;
-    font-family: "Bebas Neue";
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
     font-weight: 100;
     margin-bottom: 0px;
     width: 90%;
@@ -569,7 +569,7 @@
     height: 6%;
     color: #fff;
     font-size: 1.25rem;
-    font-family: "Bebas Neue";
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
     margin-top: 5%;
     margin-left: 6%;
     /* border-bottom: 1px solid #FFFF; */
@@ -581,7 +581,7 @@
 
   .cardPara-small-div {
     font-size: 40px;
-    font-family: "Bebas Neue";
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
     font-weight: 100;
     margin-bottom: 0px;
     width: 90%;
@@ -604,23 +604,23 @@
   width: 100vw;
   overflow: hidden;
   position: relative;
-  font-family: "Bebas Neue";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
 }
 .container .list .item {
   width: 100%;
   height: 100%;
   position: absolute;
   inset: 0 0 0 0;
-  font-family: "Bebas Neue";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
 }
 .container .list .item img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  font-family: "Bebas Neue";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
 }
 .container .list .item .content {
-  font-family: "Bebas Neue";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   position: absolute;
   top: 11%;
   width: 1000px;
@@ -633,7 +633,7 @@
   text-shadow: 0 5px 10px #0004;
 }
 .container .list .item .contentpart {
-  font-family: "Bebas Neue";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   background-color: #eee4;
   width: fit-content;
   border-radius: 10px;
@@ -674,7 +674,7 @@
   border: 2px solid white;
   background-color: #eee4;
   letter-spacing: 3px;
-  font-family: "Bebas Neue";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   font-weight: 500;
     /* margin-left: -138%;
     margin-right: 150%; */
@@ -742,7 +742,7 @@
   background-color: #eee4;
   border: 2px solid white;
   color: #fff;
-  font-family: "Bebas Neue";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   font-weight: bold;
   transition: 0.5s;
 }
@@ -991,7 +991,7 @@
 .cardPara {
   font-size: 20px;
   text-shadow: 3px 4px 8px rgba(0, 0, 0, 0.7);
-  font-family: "Bebas Neue";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   font-weight: lighter;
   margin-bottom: 0px;
   width: 50%;
@@ -1003,7 +1003,7 @@
   font-weight: 300;
   padding: 10px 10px 10px 0px;
   text-shadow: 3px 4px 8px rgba(0, 0, 0, 0.7);
-  font-family: "Bebas Neue";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   width: 700px;
   margin: 0px;
   line-height: 1;
@@ -1020,7 +1020,7 @@
   height: 45px;
   color: #fff;
   font-size: 20px;
-  font-family: "Bebas Neue";
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
   margin-top: 50px;
 }
 
@@ -1065,7 +1065,7 @@
 
   .top-text {
     color: #ffffff;
-    font-family: "Bebas Neue";
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
     font-size: 1.15rem;
     /* font-weight: 200; */
     padding-top: 15%;
@@ -1138,12 +1138,12 @@
     font-size: 1.35rem;
     font-weight: 80;
     letter-spacing: 0.005rem;
-    font-family: "Bebas Neue";
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
   }
 
   .cardPara-small {
     font-size: 1.2rem;
-    font-family: "Bebas Neue";
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
     font-weight: 100;
     margin-bottom: 0px;
     width: 90%;
@@ -1166,7 +1166,7 @@
     height: 6%;
     color: #fff;
     font-size: 1.25rem;
-    font-family: "Bebas Neue";
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
     margin-top: 5%;
     margin-left: 6%;
     /* border-bottom: 1px solid #FFFF; */
@@ -1178,7 +1178,7 @@
 
   .cardPara-small-div {
     font-size: 40px;
-    font-family: "Bebas Neue";
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
     font-weight: 100;
     margin-bottom: 0px;
     width: 90%;
