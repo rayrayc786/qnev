@@ -58,7 +58,6 @@
 .container .list .item .topic {
   width: fit-content;
   font-size: 3.75em;
-  font-weight: bold;
   /* font-weight: bold; */
   line-height: 1.3em;
 
