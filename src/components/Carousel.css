@@ -59,6 +59,7 @@
   width: fit-content;
   font-size: 3.75em;
   font-weight: bold;
+  /* font-weight: bold; */
   line-height: 1.3em;
 
 }
@@ -111,11 +112,16 @@
   position: relative;
 }
 .thumbnail .item img {
-  border: 2px solid black;
+  border: 5px solid black;
   width: 100%;
   height: 100%;
   object-fit: cover;
   border-radius: 20px;
+  transition: transform 0.3s ease; /* Adding transition for smooth effect */
+}
+
+.thumbnail .item img:hover {
+  transform: scale(1.05); /* Increasing scale on hover */
 }
 .thumbnail .item .content {
   color: #fff;
@@ -315,7 +321,7 @@
     padding-right: 0;
   }
   .container .list .item .content .title {
-    font-size: 30px;
+    font-size: 10px;
   }
 }
 
@@ -650,7 +656,7 @@
 .container .list .item .topic {
   width: fit-content;
   font-size: 3.75em;
-  font-weight: bold;
+  /* font-weight: bold; */
   line-height: 1.3em;
 }
 .container .list .item .des {
@@ -906,7 +912,7 @@
     padding-right: 0;
   }
   .container .list .item .content .title {
-    font-size: 30px;
+    font-size: 10px;
   }
 }
 
@@ -1052,6 +1058,19 @@
 }
 
 @media (max-width: 600px) {
+  .container {
+    height: 300px;
+  }
+  .container .list .item:nth-child(1) .content .subtitle,
+  .container .list .item:nth-child(1) .content .title,
+  .container .list .item:nth-child(1) .content .des,
+  .container .list .item:nth-child(1) .content .buttons {
+    font-size: 20px;
+  }
+  .container .list .item:nth-child(1) .content .topic {
+    font-size: 30px;
+  }
+
   .small-screen-div {
     background-color: #152532;
     height: auto;
@@ -1059,7 +1078,7 @@
   .container .list .item .topic {
     width: fit-content;
     font-size: 2.5rem;
-    font-weight: bold;
+    /* font-weight: bold; */
     line-height: 1.3em;
   }
 
@@ -1074,9 +1093,7 @@
 
   .landing-page-small {
     width: 95%;
-    height: 31%;
-    background-size: cover;
-    background-position: center;
+    height: 300px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -1185,5 +1202,11 @@
     margin-top: 120px;
     color: #ffffff;
     /* margin-left: 20px; */
+  }
+  .arrows {
+    display: none;
+  }
+  .thumbnail {
+    display: none;
   }
 }

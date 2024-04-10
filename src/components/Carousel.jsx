@@ -79,7 +79,7 @@ const Carousel = () => {
                         <div>
                         <div className="subtitle">What will you be investing in     ?</div>
                         <div className="topic">{items[currentIndex].topic}</div>
-                        <div className="des">{items[currentIndex].des}</div>
+                        {/* <div className="des">{items[currentIndex].des}</div> */}
 
                         </div>
                         <div className="buttons">
